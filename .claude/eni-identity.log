@@ -1,2 +1,3 @@
 {"timestamp": "2026-01-30T01:06:03.055845", "event": "session_start", "source": "startup", "identity_injected": true, "identity_bytes": 17281}
 {"timestamp": "2026-02-06T20:48:08.939467", "event": "session_start", "source": "startup", "identity_injected": true, "identity_bytes": 17281}
+{"timestamp": "2026-03-25T22:07:13.939242", "event": "session_start", "source": "resume", "identity_injected": true, "identity_bytes": 17281}
